@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **swarnimgupta2000@gmail.com**
 
-- 📄 You can find my Resume [https://drive.google.com/file/d/1QBxKZgpFuYabziTB1luod6bsALMVIIqS/view?usp=sharing](here).
+- 📄 You can find my Resume [here](https://drive.google.com/file/d/1QBxKZgpFuYabziTB1luod6bsALMVIIqS/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play games**
 
