@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swarnim Gupta</h1>
 <h3 align="center">I'm a Web and Mobile Application Developer from India</h3>
 
+- 💬 Ask me about **React, React Native, Node, Express**
+
 - 📫 How to reach me **swarnimgupta2000@gmail.com**
+
+- 📄 You can find my Resume [https://drive.google.com/file/d/1QBxKZgpFuYabziTB1luod6bsALMVIIqS/view?usp=sharing](here).
 
 - ⚡ Fun fact **I love to play games**
 
